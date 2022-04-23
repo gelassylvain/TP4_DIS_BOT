@@ -1,0 +1,4 @@
+Le "main.py" est le fichier principal à lancer.
+En effet, après avoir fait le << python main.py >> dans l'environnement activé, le bot s'active avec un message dans le terminal (ex:#BOT1234 est prêt !).
+
+NB: le token a été retiré car lorsque je fais lecommit/push, mon répertoire GitHub étant public, si mon token est laissé, il peut être vu par tous et potentiellement volé.

@@ -1,0 +1,8 @@
+##Bot discord
+
+1. Qu’est-ce qu’un bot ?
+rép: Un « bot » (abréviation de « robot ») est un logiciel qui exécute des tâches automatisées, répétitives et prédéfinies. Les bots imitent ou remplacent généralement le comportement des utilisateurs humains. Comme ils sont automatisés, ils fonctionnent beaucoup plus rapidement que les utilisateurs humains. Ils remplissent des fonctions utiles, comme le service clientèle ou l'indexation des moteurs de recherche, mais ils peuvent aussi se présenter sous la forme de logiciels malveillants, utilisés pour prendre le contrôle total d'un ordinateur.
+
+
+2. Qu'est ce que le logging. À quoi servent les logs?
+rép: Le logging est un terme signifiant la gestion des logs. Les logs sont des journaux d’événements où sont collectés les événements relatifs à l’état d’un système.  Il existe une multitude de logs en fonction des différents systèmes. 
